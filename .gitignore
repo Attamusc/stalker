@@ -1,6 +1,5 @@
 .bundle
+.bin
 vendor
 
-bin/*
-!bin/stalker
-
+temp*
