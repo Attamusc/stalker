@@ -1,1 +1,1 @@
-require_relative 'commands/rsync'
+require_relative 'commands/sync'
