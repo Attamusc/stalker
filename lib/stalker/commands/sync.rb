@@ -1,4 +1,3 @@
-require 'rsync'
 require 'logger'
 
 module Stalker
